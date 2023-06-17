@@ -1,0 +1,19 @@
+{
+  "name": "mern-ecommerce",
+  "version": "1.0.0",
+  "description": "Mern E-Commerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukhtasar93/mern-ecommerce.git"
+  },
+  "author": "Mukhtasar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukhtasar93/mern-ecommerce/issues"
+  },
+  "homepage": "https://github.com/mukhtasar93/mern-ecommerce#readme"
+}
